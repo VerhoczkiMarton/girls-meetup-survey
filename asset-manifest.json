@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/girls-meetup-survey/static/css/main.6917a5f6.chunk.css",
+    "main.js": "/girls-meetup-survey/static/js/main.d51aa274.chunk.js",
+    "main.js.map": "/girls-meetup-survey/static/js/main.d51aa274.chunk.js.map",
+    "runtime-main.js": "/girls-meetup-survey/static/js/runtime-main.e9287f54.js",
+    "runtime-main.js.map": "/girls-meetup-survey/static/js/runtime-main.e9287f54.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/girls-meetup-survey/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.0280351a.chunk.js": "/girls-meetup-survey/static/js/2.0280351a.chunk.js",
+    "static/js/2.0280351a.chunk.js.map": "/girls-meetup-survey/static/js/2.0280351a.chunk.js.map",
+    "index.html": "/girls-meetup-survey/index.html",
+    "precache-manifest.45ef3d7d7a1ae4ddf15b19e8d15bcce6.js": "/girls-meetup-survey/precache-manifest.45ef3d7d7a1ae4ddf15b19e8d15bcce6.js",
+    "service-worker.js": "/girls-meetup-survey/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/girls-meetup-survey/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.6917a5f6.chunk.css.map": "/girls-meetup-survey/static/css/main.6917a5f6.chunk.css.map",
+    "static/js/2.0280351a.chunk.js.LICENSE": "/girls-meetup-survey/static/js/2.0280351a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9287f54.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.0280351a.chunk.js",
+    "static/css/main.6917a5f6.chunk.css",
+    "static/js/main.d51aa274.chunk.js"
+  ]
+}
