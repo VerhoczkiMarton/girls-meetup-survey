@@ -14,6 +14,8 @@ function App() {
     const [result, changeResult] = useState(useContext(ResultContext));
     const [survey, changeSurvey] = useState(useContext(SurveyContext));
 
+    // Wow, this is github on gerrit
+
     return (
         <Router>
             <div className="App">
